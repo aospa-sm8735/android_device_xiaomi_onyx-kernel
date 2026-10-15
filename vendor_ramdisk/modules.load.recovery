@@ -129,7 +129,6 @@ millet_hs.ko
 millet_binder.ko
 millet_sig.ko
 millet_oem_cgroup.ko
-miloadtrace.ko
 mi_schedule.ko
 metis.ko
 mist.ko
